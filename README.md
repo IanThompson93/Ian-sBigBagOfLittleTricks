@@ -7,7 +7,7 @@
 
 ---
 
-- [ ] [Learn 10 JavaScript stytaxtical things]()
+- [ ] [Learn 10 JavaScript Data Types & Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 
 ---
 
